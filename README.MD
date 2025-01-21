@@ -25,4 +25,5 @@ Scrum Master on Scrum-tiimin jäsen, joka vastaa siitä, että Scrum-prosessi to
 4. Keskitytään edistymään kohti sprintin tavoitteita
 5. Tuotetaan toimivaa suunnitelmaa seuraavaa työpäivää varten
 
+
 ## Miksi Scrum toimii?
