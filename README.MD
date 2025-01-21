@@ -34,6 +34,7 @@
     - Varmista sidosryhmien osallistuminen esimerkiksi hankkimalla palautteita.
     - Realistinen priorisointi, eniten arvoa tuottaviin tehtäviin keskitytään eniten.
 
+
 ## Roolit
 
 ## Kokoukset
