@@ -30,9 +30,11 @@ Scrum Master on Scrum-tiimin jäsen, joka vastaa siitä, että Scrum-prosessi to
 ## Kokoukset
 
 1. Joka päivä 15 minuutin kokous
-2. Pidetään aina samaan aikaan
-3. Päivittäiset kokoukset parantavat viestintää ja auttavat tunnistamaan esteitä
-4. Keskitytään edistymään kohti sprintin tavoitteita
-5. Tuotetaan toimivaa suunnitelmaa seuraavaa työpäivää varten
+2. Tarkastellaan sprintin etenemistä kohti tavoitetta
+3. Pidetään aina samaan aikaan
+4. Päivittäiset kokoukset parantavat viestintää ja auttavat tunnistamaan esteitä
+5. Keskitytään edistymään kohti sprintin tavoitteita
+6. Tuotetaan toimivaa suunnitelmaa seuraavaa työpäivää varten
+7. Tarvittaessa mukautetaan Sprint Backlogia sekä tulevia suunniteltuja töitä
 
 ## scrum-syklin yleiskuvaus
