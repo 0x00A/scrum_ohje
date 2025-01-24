@@ -15,7 +15,7 @@ tai hankkia tarpeellisia taitoja.
 Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat yleensä samanpituisia keskenään, alle kuukauden mittaisia jaksoja.
 
 ## Työjonot
-# 1. Tuotejonon luominen ja ylläpito
+### 1. Tuotejonon luominen ja ylläpito
 
     - Laadi tehtävät käyttäjätarinoina:
     - Määritä prioriteetit.
@@ -23,7 +23,16 @@ Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerki
     - Päivitä tuotejonoa jatkuvasti.
     - Määritetään Definition of Done (DoD).
 
-# 2. Sprinttijonon luominen ja hallinta
+### 2. Sprinttijonon luominen ja hallinta
+    - Valitse tehtävät sprintille, sen tavoitteiden mukaisesti.
+    - Pilko suuret tehtävät pienempiin osiin.
+    - Arvioi sprintin jokaisen tehtävän työmäärä.
+
+### 3. Työjonojen seuranta ja päivittäinen työskentely
+
+    - Päivitä työjonot päivittäin ja tarkista tehtävien edistyminen Scrum-palavereissa.
+    - Käytä visuaalisia työkaluja edistymisen seurantaa varten.
+
 
 ## Roolit
 
