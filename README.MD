@@ -8,7 +8,7 @@ lähestymistapaa ennustettavuuden optimoimiseksi ja riskien hallitsemiseksi. Scr
 ihmisiä ryhmiksi, joilla yhdessä on kaikki taidot ja asiantuntemus tehdä tarvittavaa työtä ja jakaa
 tai hankkia tarpeellisia taitoja.
 
-## scrum-syklin yleiskuvaus
+## Scrum-syklin yleiskuvaus
 
 ## Sprintit
 
