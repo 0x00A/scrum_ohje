@@ -1,8 +1,18 @@
-# Scrum ohje
+## Miksi scrum toimii?
 
-## Scrum-syklin yleiskuvaus
+Scrum perustuu empirismiin ja lean-ajatteluun. Empirismin mukaan tieto tulee kokemuksesta ja
+päätösten tekemisestä havaintojen perusteella. Lean-ajattelu vähentää hukkaa ja keskittyy
+olennaiseen.
+Scrum käyttää iteratiivista (asteittain tarkentuvaa) ja inkrementaalista (lisäävää)
+lähestymistapaa ennustettavuuden optimoimiseksi ja riskien hallitsemiseksi. Scrum yhdistää
+ihmisiä ryhmiksi, joilla yhdessä on kaikki taidot ja asiantuntemus tehdä tarvittavaa työtä ja jakaa
+tai hankkia tarpeellisia taitoja.
+
+## scrum-syklin yleiskuvaus
 
 ## Sprintit
+
+Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat yleensä samanpituisia keskenään, alle kuukauden mittaisia jaksoja.
 
 ## Työjonot
 # 1. Tuotejonon luominen ja ylläpito
@@ -29,10 +39,11 @@ Scrum Master on Scrum-tiimin jäsen, joka vastaa siitä, että Scrum-prosessi to
 ## Kokoukset
 
 1. Joka päivä 15 minuutin kokous
-2. Pidetään aina samaan aikaan
-3. Päivittäiset kokoukset parantavat viestintää ja auttavat tunnistamaan esteitä
-4. Keskitytään edistymään kohti sprintin tavoitteita
-5. Tuotetaan toimivaa suunnitelmaa seuraavaa työpäivää varten
+2. Tarkastellaan sprintin etenemistä kohti tavoitetta
+3. Pidetään aina samaan aikaan
+4. Päivittäiset kokoukset parantavat viestintää ja auttavat tunnistamaan esteitä
+5. Keskitytään edistymään kohti sprintin tavoitteita
+6. Tuotetaan toimivaa suunnitelmaa seuraavaa työpäivää varten
+7. Tarvittaessa mukautetaan Sprint Backlogia sekä tulevia suunniteltuja töitä
 
-
-## Miksi Scrum toimii?
+## scrum-syklin yleiskuvaus
