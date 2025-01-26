@@ -17,34 +17,7 @@ Sprinttejä jatketaan samalla tavalla kunnes tuotejonossa ei ole enää tuotteit
 Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat yleensä samanpituisia keskenään, alle kuukauden mittaisia jaksoja.
 
 ## Työjonot
-#### 1. Tuotejonon luominen ja ylläpito
-
-    - Laadi tehtävät käyttäjätarinoina:
-    - Määritä prioriteetit.
-    - Arvioi tehtävien laajuus.
-    - Päivitä tuotejonoa jatkuvasti.
-    - Määritetään Definition of Done (DoD).
-
-#### 2. Sprinttijonon luominen ja hallinta
-
-    - Määrittele spirintille selkeä tavoite.
-    - Pilko suuret tehtävät pienempiin osiin.
-    - Arvioi sprintin jokaisen tehtävän työmäärä.
-
-#### 3. Työjonojen seuranta ja päivittäinen työskentely
-
-    - Päivitä työjonot päivittäin ja tarkista tehtävien edistyminen Scrum-palavereissa.
-    - Käytä visuaalisia työkaluja edistymisen seurantaa varten.
-
-#### 4. Työkalut työjonojen hallintaan
-
-    - Valitse hallintaan sopiva työkalu, kuten Jira tai Trello.
-
-#### 5. Hyvät käytännöt työjonojen hallinnassa
-
-    - Pidä tehtävät selkeinä ja yksinkertaisina.
-    - Ylläpidä hyvää yhteistyötä sidosryhmien kanssa esimerkiksi käyttäjäpalautteita hyödyntämällä määrittelyssä ja tehtävien priorisoinnissa.
-    - Realistinen priorisointi, eniten arvoa tuottaviin tehtäviin keskitytään eniten.
+Työjonot ovat keskeinen osa Scrumin toimintatapaa ja projektinhallintaa. Ne edustavat ja kuvaavat kaikkea sitä työtä, joka tarvitaan projektin tavoitteiden saavuttamiseksi. Työjono toimii dynaamisena työkaluna, jonka avulla tiimi voi priorisoida tehtäviä, seurata edistymistä ja varmistaa, että työ keskittyy olennaisiin asioihin. Hyvin hoidettu työjono tukee tiimin itseohjautuvuutta, auttaa hallitsemaan monimutkaisuutta ja tuo selkeyttä projektin etenemiseen. Työjono tärkeitä osa-alueita ovat __läpinäkyvyys__, __joustavuus__, __priorisointi__ ja __yhteistyö__.
 
 ## Roolit
 
