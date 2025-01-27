@@ -1,3 +1,4 @@
+# Scrum-ohje
 
 ## Scrum-syklin yleiskuvaus
 
@@ -9,20 +10,24 @@ Sprinttejä jatketaan samalla tavalla kunnes tuotejonossa ei ole enää tuotteit
 
 ## Sprintit
 
-Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat yleensä samanpituisia keskenään, alle kuukauden mittaisia jaksoja.
+Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat yleensä keskenään samanpituisia, alle kuukauden mittaisia jaksoja.
 
 ## Työjonot
-Työjonot ovat keskeinen osa Scrumin toimintatapaa ja projektinhallintaa. Ne edustavat ja kuvaavat kaikkea sitä työtä, joka tarvitaan projektin tavoitteiden saavuttamiseksi. Työjono toimii dynaamisena työkaluna, jonka avulla tiimi voi priorisoida tehtäviä, seurata edistymistä ja varmistaa, että työ keskittyy olennaisiin asioihin. Hyvin hoidettu työjono tukee tiimin itseohjautuvuutta, auttaa hallitsemaan monimutkaisuutta ja tuo selkeyttä projektin etenemiseen. Työjono tärkeitä osa-alueita ovat __läpinäkyvyys__, __joustavuus__, __priorisointi__ ja __yhteistyö__.
+
+Työjonot ovat keskeinen osa Scrumin toimintatapaa ja projektinhallintaa. Ne edustavat ja kuvaavat kaikkea sitä työtä, joka tarvitaan projektin tavoitteiden saavuttamiseksi. Työjono toimii dynaamisena työkaluna, jonka avulla tiimi voi priorisoida tehtäviä, seurata edistymistä ja varmistaa, että työ keskittyy olennaisiin asioihin. Hyvin hoidettu työjono tukee tiimin itseohjautuvuutta, auttaa hallitsemaan monimutkaisuutta ja tuo selkeyttä projektin etenemiseen. Työjono tärkeitä osa-alueita ovat **läpinäkyvyys**, **joustavuus**, **priorisointi** ja **yhteistyö**.
 
 ## Roolit
 
 #### Kehittäjät
+
 Kehittäjät ovat Scrum-tiimin jäseniä, he ovat vastuussa tuotteen kehityksestä, testauksesta ja toimittamisesta. Kehittäjät ovat itseorganisoituvia ja monitaitoisia. Kehittäjät voivat olla ohjelmoijia, testaajia, suunnittelijoita, arkkitehteja, jne.
 
 #### Tuoteomistaja
+
 Tuoteomistaja on Scrum-tiimin jäsen, joka vastaa tuotteen kehityksen priorisoinnista ja tuotteen arvon maksimoinnista. Tuoteomistaja toimii yhteytenä asiakkaan ja kehitystiimin välillä. Tuoteomistaja määrittelee tuotteen ominaisuudet ja niiden tärkeysjärjestyksen.
 
 #### Scrum Master
+
 Scrum Master on Scrum-tiimin jäsen, joka vastaa siitä, että Scrum-prosessi toimii tehokkaasti ja että tiimi noudattaa Scrumin periaatteita. Scrum Master auttaa tiimiä poistamaan esteitä ja ongelmatilanteita. Scrum Master myös auttaa tuoteomistajaa priorisoimaan tuotteen ominaisuuksia. Scrum Master on nimellinen arvo, Scrum master ei siis ole tiimin varsinainen esimies vaan tiimi on itseorganisoituva.
 
 ## Kokoukset
