@@ -10,7 +10,9 @@ Sprinttejä jatketaan samalla tavalla kunnes tuotejonossa ei ole enää tuotteit
 
 ## Sprintit
 
-Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat yleensä keskenään samanpituisia, alle kuukauden mittaisia jaksoja.
+Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat keskenään samanpituisia, alle kuukauden mittaisia jaksoja, jotka seuraavat toisiaan.
+
+Sprintti pitää sisällään muut Scrumin tapahtumat. Näitä ovat sprintin suunnittelu, päivittäispalaverit, sprintin arviointi ja sprintin retrospektiivi.
 
 ## Työjonot
 
@@ -18,15 +20,15 @@ Työjonot ovat keskeinen osa Scrumin toimintatapaa ja projektinhallintaa. Ne edu
 
 ## Roolit
 
-#### Kehittäjät
+### Kehittäjät
 
 Kehittäjät ovat Scrum-tiimin jäseniä, he ovat vastuussa tuotteen kehityksestä, testauksesta ja toimittamisesta. Kehittäjät ovat itseorganisoituvia ja monitaitoisia. Kehittäjät voivat olla ohjelmoijia, testaajia, suunnittelijoita, arkkitehteja, jne.
 
-#### Tuoteomistaja
+### Tuoteomistaja
 
 Tuoteomistaja on Scrum-tiimin jäsen, joka vastaa tuotteen kehityksen priorisoinnista ja tuotteen arvon maksimoinnista. Tuoteomistaja toimii yhteytenä asiakkaan ja kehitystiimin välillä. Tuoteomistaja määrittelee tuotteen ominaisuudet ja niiden tärkeysjärjestyksen.
 
-#### Scrum Master
+### Scrum Master
 
 Scrum Master on Scrum-tiimin jäsen, joka vastaa siitä, että Scrum-prosessi toimii tehokkaasti ja että tiimi noudattaa Scrumin periaatteita. Scrum Master auttaa tiimiä poistamaan esteitä ja ongelmatilanteita. Scrum Master myös auttaa tuoteomistajaa priorisoimaan tuotteen ominaisuuksia. Scrum Master on nimellinen arvo, Scrum master ei siis ole tiimin varsinainen esimies vaan tiimi on itseorganisoituva.
 
@@ -43,10 +45,4 @@ Scrum Master on Scrum-tiimin jäsen, joka vastaa siitä, että Scrum-prosessi to
 
 ## Miksi Scrum toimii?
 
-Scrum perustuu empirismiin ja lean-ajatteluun. Empirismin mukaan tieto tulee kokemuksesta ja
-päätösten tekemisestä havaintojen perusteella. Lean-ajattelu vähentää hukkaa ja keskittyy
-olennaiseen.
-Scrum käyttää iteratiivista (asteittain tarkentuvaa) ja inkrementaalista (lisäävää)
-lähestymistapaa ennustettavuuden optimoimiseksi ja riskien hallitsemiseksi. Scrum yhdistää
-ihmisiä ryhmiksi, joilla yhdessä on kaikki taidot ja asiantuntemus tehdä tarvittavaa työtä ja jakaa
-tai hankkia tarpeellisia taitoja.
+Scrum perustuu empirismiin ja lean-ajatteluun. Empirismin mukaan tieto tulee kokemuksesta ja päätösten tekemisestä havaintojen perusteella. Lean-ajattelu vähentää hukkaa ja keskittyy olennaiseen. Scrum käyttää iteratiivista (asteittain tarkentuvaa) ja inkrementaalista (lisäävää) lähestymistapaa ennustettavuuden optimoimiseksi ja riskien hallitsemiseksi. Scrum yhdistää ihmisiä ryhmiksi, joilla yhdessä on kaikki taidot ja asiantuntemus tehdä tarvittavaa työtä ja jakaa tai hankkia tarpeellisia taitoja.
