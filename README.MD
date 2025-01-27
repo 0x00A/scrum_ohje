@@ -12,7 +12,15 @@ Sprinttejä jatketaan samalla tavalla kunnes tuotejonossa ei ole enää tuotteit
 
 Sprintin tarkoitus on toteuttaa yksi ennalta sovittu projektin tavoite, esimerkiksi ohjelmistoprojektin uusi ominaisuus, sovitun aikarajan puitteissa. Sprintit ovat keskenään samanpituisia, alle kuukauden mittaisia jaksoja, jotka seuraavat toisiaan.
 
-Sprintti pitää sisällään muut Scrumin tapahtumat. Näitä ovat sprintin suunnittelu, päivittäispalaverit, sprintin arviointi ja sprintin retrospektiivi.
+Sprintti pitää sisällään muut Scrumin tapahtumat. Itse sprintin toteutuksen lisäksi näitä ovat sprintin suunnittelu, päivittäispalaverit, sprintin katselmointi ja sprintin retrospektiivi:
+
+**Sprintin suunnnittelussa** määritellään sprintin tavoite yhdessä tiimin ja tuoteomistajan kanssa. Tavoitteen valinnassa apuna on työjonot. Suunnittelun päämääränä on selkeästi määritelty tavoite ja keinot sen saavuttamiseksi sovitun ajan puitteissa.
+
+**Päivittäispalaverit** ovat nimensä mukaisesti päivittäisiä noin 15-minuutin kokouksia, jossa käydään läpi sprintin etenemistä. Tarkemmin aiheesta kohdassa Kokoukset.
+
+**Sprintin katselmointi** tapahtuu sprintin lopussa. Katselmoinnissa tiimi esittelee sprintin tulokset sidosryhmille ja saa palautetta työstään. Katselmointi myös alustaa seuraavaa tuloksillaan seuraavaa sprinttiä.
+
+**Sprintin retrospektiivi** on sprintin viimeinen tapahtuma. Retrospektiivissa tiimi käy läpi omaa toimintaansa kuluneen sprintin aikana ja pyrkii löytämään siitä parannus- ja tehostuskeinoja seuraavaa sprinttiä varten.
 
 ## Työjonot
 
